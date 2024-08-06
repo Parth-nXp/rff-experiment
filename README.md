@@ -19,13 +19,13 @@ The project is divided into three main scripts:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rff-experiment.git
+    git clone https://github.com/Parth-nXp/rff-experiment.git
     cd rff-experiment
     ```
 
 2. Create a virtual environment and activate it:
     ```bash
-    python -m venv venv
+    python -m venv rff-klms
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
