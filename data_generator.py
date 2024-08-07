@@ -1,5 +1,3 @@
-# data_generator.py
-
 import numpy as np
 
 class DataGenerator:
