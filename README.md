@@ -1,4 +1,4 @@
-# Random Fourier Features Model Experiment
+# Random Fourier Features Model Kernel Least Mean Square Algorithm
 
 This project simulates an experiment using Random Fourier Features (RFF) to approximate a non-linear function. The experiment is repeated multiple times, and the mean squared error (MSE) is calculated and plotted over iterations.
 
